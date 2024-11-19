@@ -14,7 +14,7 @@ The **ShopperStop E-commerce DBMS** is a relational database designed to manage 
 
 This system streamlines operations, provides secure data handling, and delivers a seamless shopping experience for users.
 
----
+
 
 ## ✨ Features
 
@@ -25,7 +25,7 @@ This system streamlines operations, provides secure data handling, and delivers 
 - 🌟 **Review System:** Allow customers to rate and review products.  
 - 🛍️ **Shopping Cart Functionality:** Manage cart items efficiently.
 
----
+
 
 ## 🗺️ ER Diagram
 
@@ -33,7 +33,7 @@ Below is the ER Diagram illustrating the structure and relationships of the data
 
 ![ER Diagram](ShopperStopERDiagram.png)
 
----
+
 
 ## 🏗️ Database Structure
 
@@ -43,7 +43,7 @@ Below is the ER Diagram illustrating the structure and relationships of the data
 - **🚚 Vendors and Couriers:** Manage vendor supplies and delivery logistics.
 - **⭐ Reviews:** Collect customer feedback for product insights.
 
----
+
 
 ## 💾 SQL Scripts
 
@@ -52,4 +52,4 @@ This repository includes the following SQL scripts:
 1. **`ShopperStop_Script.sql`:** 📜 The complete SQL schema to set up the database.
 2. **`s-p,v,func.sql`:** 🧩 Stored procedures, views, and functions for advanced database operations.
 
----
+
